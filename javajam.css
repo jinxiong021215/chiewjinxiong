@@ -3,19 +3,19 @@
 }
 
 #heroroad{
-    background-image: url('/img/heroroad.jpg');
+    background-image: url('/img/heroroad.jpg/);
     background-size: 100% 100%;
     height: 250px;
 }
 
 #heromugs{
-    background-image: url('/img/heromugs.jpg');
+    background-image: url('/img/heromugs.jpg/);
     background-size: 100% 100%;
     height: 250px;
 }
 
 #heroguitar{
-    background-image: url('/img/heroguitar.jpg');
+    background-image: url('/img/heroguitar.jpg/);
     background-size: 100% 100%;
     height: 250px;
 }
@@ -24,14 +24,14 @@ body {
     background-color:#FCEBB6;
     color:#221811;
     font-family:Verdana,Arial,sans-serif;
-    background-image: url('img/background.gif');
+    background-image: url('img/background.gif/);
 }
 
 header {
     background-color:#D2B48C;
     /*text-align: center;*/
     height: 150px;
-    background-image: url("/img/javajamlogo.jpg");
+    background-image: url("/img/javajamlogo.jpg/);
     background-repeat: no-repeat;
 }
 
